@@ -49,7 +49,6 @@ public class ProjetDeFinDeFormationApplication implements CommandLineRunner {
 	@Autowired
 	private InscriptionsRepository inscriptionRepos;
 	
-	
 
 
 	DateFormat d = new SimpleDateFormat("dd/MM/yyyy");
